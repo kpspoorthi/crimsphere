@@ -1,0 +1,6 @@
+{
+  "name": "Crime Database Management System",
+  "description": "An advanced, secure, and visually polished crime database management system featuring active case tracking, detailed criminal registry, evidence logistics, privacy controls, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
